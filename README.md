@@ -1,4 +1,4 @@
 # gitp1
 sample program
-gitanu
+githubp1
 sample program
